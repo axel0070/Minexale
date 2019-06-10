@@ -1,12 +1,10 @@
-# CGRAPH 
+# Minexel 
 
-A 3D graph for the TI-83 Premium CE calculators. It uses <a href="https://github.com/CE-Programming/libraries/releases/latest">CE C 'Standard' Libraries</a>
-
-This program use the math arbitrary precision for the TI-84+ CE calculators <a href="https://github.com/nathanfarlow/PineappleCAS">PineappleCAS</a>
+A 2D minecraft like for the TI-83 Premium CE calculators. It uses <a href="https://github.com/CE-Programming/libraries/releases/latest">CE C 'Standard' Libraries</a>
 
 This program is a "proof of concept". It was made for fun, and is no longer supported.
 
-## Examples
+## Screenshot
 
 <p align="center">
   <b>f(x,y) = cos(sin(x*y))</b><br>
