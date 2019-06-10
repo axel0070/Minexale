@@ -2,38 +2,35 @@
 
 A 2D minecraft like for the TI-83 Premium CE calculators. It uses <a href="https://github.com/CE-Programming/libraries/releases/latest">CE C 'Standard' Libraries</a>
 
-This program is a "proof of concept". It was made for fun, and is no longer supported.
-
 ## Screenshot
 
 <p align="center">
-  <b>f(x,y) = cos(sin(x*y))</b><br>
-  <img src="https://github.com/axel0070/CGRAPH/blob/master/screnshot/cos(sin(xy))%20P1.png">
+  <b>Homescreen</b><br>
+  <img src="https://github.com/axel0070/Minexale/blob/master/screnshot/home.png">
 </p>
 
 <p align="center">
-  <b>f(x,y) = sqrt( |x*y| )</b><br>
-  <img src="https://github.com/axel0070/CGRAPH/blob/master/screnshot/sqrt(abs(xy))%20P1.png">
+  <b>Steve cutting a tree</b><br>
+  <img src="https://github.com/axel0070/Minexale/blob/master/screnshot/tree.png">
 </p>
 
+<p align="center">
+  <b>Steve mining</b><br>
+  <img src="https://github.com/axel0070/Minexale/blob/master/screnshot/cave.png">
+</p>
 
 ## How to use
 
-* Download [CGRAPH.8xp](https://github.com/axel0070/CGRAPH/releases/latest).
+* Download [CGRAPH.8xp](https://github.com/axel0070/Minexale/releases/latest).
 
 * Send it to your calculator using TI Connect CE.
 
-* Put your function f(X,Y) in the Y1 section of the default graph of the calculator.
+* Launch the program MINEXALE.
 
-* Launch the program CGRAPH.
+* enjoy.
 
-* Choose with the keyboard the precision you want, enjoy.
+## Informations
 
-## Issues
+* The program isn't a real game, it's a test.
 
-* The program don't recognize "forbidden value" it just put 0 at this point.
-
-* Can't move the camera (Not implemented too slow)
-
-
-Thanks a lot to <a href="https://github.com/nathanfarlow">@nathanfarlow</a> for his help with his library and advises.
+* This program is a "proof of concept". It was made for fun, and is no longer supported.
